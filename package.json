@@ -1,6 +1,5 @@
 {
   "name": "robofriends",
-  "homepage": "https://localhost",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
